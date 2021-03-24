@@ -4,10 +4,10 @@ to enter a docker container run:
 
 
 ```docker run -it graphics```
+(to run graphics program(like the libgraph programs) the command is a little different.)
 
 
 then ```source ~/.bashrc``` to get a nicer prompt
-But to run graphics program(like the libgraph programs) the command is a little different.
 
 # Note
 Every time you stop a docker container the changes made will be discarded. If you want to stop them from being discarded then after exiting a docker container use 
